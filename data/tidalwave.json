@@ -8,5 +8,17 @@
     "percentToQualify": "55",
     "password": "XL",
     "records": [
+                 {
+            "user": "Scizor",
+            "link": "https://www.youtube.com/watch?v=faDwkqwliW4",
+            "percent": 100,
+            "hz": 12037
+        },
+                 {
+            "user": "Drake",
+            "link": "https://www.youtube.com/watch?v=faDwkqwliW4",
+            "percent": 67,
+            "hz": "?"
+        }
     ]
 }
